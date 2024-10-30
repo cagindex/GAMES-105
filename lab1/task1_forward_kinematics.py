@@ -71,7 +71,7 @@ def part3_retarget(viewer, T_pose_bvh_path, A_pose_bvh_path):
 def main():
     # create a viewer
     viewer = SimpleViewer()
-    bvh_file_path = "data/walk60.bvh"
+    bvh_file_path = "data/A_pose_run.bvh"
 
     # 请取消注释需要运行的代码
     # part1
